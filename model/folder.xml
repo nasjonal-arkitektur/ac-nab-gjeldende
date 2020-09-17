@@ -1,0 +1,25 @@
+<archimate:ArchimateModel
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="nab-gjeldende"
+    id="e7e6c527-26f4-461c-b4dd-651fcbe85c8d"
+    purpose="."
+    version="4.6.0">
+  <properties
+      key="difi:default_language"
+      value="no"/>
+  <properties
+      key="difi:current_language"
+      value="no"/>
+  <properties
+      key="difi:docRootPath"
+      value="C:\github\digdir\nasjonal_arkitektur"/>
+  <properties
+      key="must replace icons in tree"
+      value="yes"/>
+  <properties
+      key="must replace icons in views"
+      value="yes"/>
+  <properties
+      key="difi:antoraComponentsPath"
+      value="C:\gitlab\digdir\components"/>
+</archimate:ArchimateModel>
