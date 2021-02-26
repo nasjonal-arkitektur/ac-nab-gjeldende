@@ -60,7 +60,7 @@
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="892ac91d-a941-4b61-81fe-a77468211679"
-      targetConnections="4178935a-8d53-4aeb-ab85-b5e0780d0983 b9b241e7-7123-4540-a86b-748d785ca683"
+      targetConnections="b9b241e7-7123-4540-a86b-748d785ca683 4178935a-8d53-4aeb-ab85-b5e0780d0983"
       font="1|Segoe UI|9.0|1|WINDOWS|1|-15|0|0|0|700|0|0|0|0|3|2|1|34|Segoe UI"
       textPosition="1"
       type="1">

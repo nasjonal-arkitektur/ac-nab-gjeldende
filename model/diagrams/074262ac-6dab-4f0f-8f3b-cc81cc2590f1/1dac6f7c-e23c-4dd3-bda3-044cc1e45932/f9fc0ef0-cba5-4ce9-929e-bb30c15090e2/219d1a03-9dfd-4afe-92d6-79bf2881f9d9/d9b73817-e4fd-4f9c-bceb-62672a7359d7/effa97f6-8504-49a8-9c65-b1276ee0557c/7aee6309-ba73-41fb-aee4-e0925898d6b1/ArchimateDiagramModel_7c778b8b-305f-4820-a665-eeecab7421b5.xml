@@ -74,7 +74,7 @@
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="fb104519-70c7-40f8-ade3-32c3077a5eae"
-      targetConnections="3357f0b2-5f29-47ec-8a77-97fac0e33cf5 c14d4f95-5d94-4459-8121-b36fb5da7208 f0e96f8a-1e5d-4550-a568-0ddaf293f8fe"
+      targetConnections="c14d4f95-5d94-4459-8121-b36fb5da7208 f0e96f8a-1e5d-4550-a568-0ddaf293f8fe 3357f0b2-5f29-47ec-8a77-97fac0e33cf5"
       textPosition="1">
     <bounds
         x="60"
